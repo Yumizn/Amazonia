@@ -1,11 +1,12 @@
 [package]
-name = "Canistel"
+name = "Rust"
 version = "0.1.0"
 edition = "2021"
 authors = 
 description = 
 license = 
 repository =
+
 
 [profile.release]
 opt-level = 3
@@ -22,4 +23,7 @@ panic = 'abort'
 [workspace]
 
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html  
